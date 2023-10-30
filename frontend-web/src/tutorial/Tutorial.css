@@ -1,0 +1,62 @@
+
+/* EXPLANATION SESSION */
+.explanation{
+    background-color: #F9F9F9;
+    margin: 40px 0px;
+    padding: 20px;
+  }
+  
+  .explanation h1{
+      color: #002F42;
+      justify-content: center;
+      display: flex;
+  }
+  
+  .explanation p{
+      color: grey;
+      justify-content: center;
+      display: flex;
+  
+  }
+  
+  .card h1{
+      font-size: 20px;
+  }
+  
+  .card p{
+      font-size: 15px;
+  }
+  
+  .card:hover{
+      background-color: #002f4230;
+      transition: background-color 0.6s;
+  }
+  
+  .number{
+      height: 30px;
+      border-radius: 60px;
+      display: flex;
+      margin: 0px 0px 20px 0px;
+      justify-content: center;
+      align-items: center;
+      width: 30px;
+      color: white;
+      background-color: #002f428d;
+  }
+  
+  .card{
+      margin: 10px;
+      padding: 20px;
+      display: block;
+      border-radius: 27px;
+      width: 350px;
+      background-color: white;
+  
+  }
+  
+  .card-session{
+      margin: 20px;
+      flex-direction: row;
+      display: flex;
+  }
+  

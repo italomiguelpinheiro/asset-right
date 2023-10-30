@@ -1,0 +1,24 @@
+.indication-area{
+    padding: 10px;
+    display: flex;
+}
+
+.analyses{
+    padding: 8px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: #002F42;
+    color: white;
+}
+
+.analyse-session{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 10px 200px;
+}
+
+.analyse-session h1{
+    font-size: 24px;
+}

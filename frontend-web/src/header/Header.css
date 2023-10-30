@@ -1,0 +1,40 @@
+.header-img{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-img img{
+    margin-left: 40px;
+    width: 100px;
+    height: 100px;
+
+}
+.header{
+    margin: 20px;
+}
+
+.header h1{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    width: 850px;
+    color: #002F42;
+}
+
+.header p{
+    color: grey;
+}   
+
+.header button{
+    display: flex;  
+    align-items: center;
+    justify-content: space-around;
+    border-color: transparent;
+    padding: 6px 30px 6px 10px;
+    margin: 20px 0px 0px 0px;
+    border-radius: 20px;
+    color: white;
+    background-color:#002F42;
+}
